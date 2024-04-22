@@ -32,7 +32,7 @@ var app = new Vue({
                 fruit:{f1:"Shelf life of the plant is 2.5-3 months.",
                        f2:"Nice shiny attractive deep green color.",
                        f3:"Average fruit size: 1кг."},
-                cycle:{autumn:"Autumn",winter:"Winter"},
+                cycle:{spring:"Spring",summer:"Summer"},
                 color:"Green"
             }},
             {id:4,title:"Shiraz-Grape",short_text:"Grape very delicious",image:'images/Shiraz-Grape.jpg',
@@ -43,7 +43,7 @@ var app = new Vue({
                 fruit:{f1:"Shelf life of the plant is 2.5-3 months.",
                        f2:"Nice shiny attractive deep blue color.",
                        f3:"Average fruit size: 1кг."},
-                cycle:{autumn:"Autumn",winter:"Winter"},
+                cycle:{spring:"Spring",summer:"Summer"},
                 color:"Blue"
             }},
             {id:5,title:"Black_grape",short_text:"Grape very delicious",image:'images/black_grape.jpg',
@@ -54,7 +54,7 @@ var app = new Vue({
                 fruit:{f1:"Shelf life of the plant is 2.5-3 months.",
                        f2:"Nice shiny attractive deep blue color.",
                        f3:"Average fruit size: 1кг."},
-                cycle:{autumn:"Autumn",winter:"Winter"},
+                cycle:{spring:"Spring",summer:"Summer"},
                 color:"Blue"
             }}
         ],
